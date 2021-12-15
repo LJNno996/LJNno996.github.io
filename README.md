@@ -1,4 +1,3 @@
-# 我的GitHub站点
+# 我的小站
 ## 访问地址：
-https://LJNno996.github.io
-## 新手 一无所有
+https://LJNno996.github.io/
